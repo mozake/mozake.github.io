@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![test](https://bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
