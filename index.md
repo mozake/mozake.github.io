@@ -2,7 +2,6 @@
 
 <iframe src="https://www.retrogames.cc/embed/21420-ninja-gaiden-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
 
-![](https://bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
